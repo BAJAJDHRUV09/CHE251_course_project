@@ -1,0 +1,10 @@
+INPUT: Final.inm
+MODNAME: apmain
+RUNID: Final
+NEW_RUNID: Final
+OLD_RUNID: Final
+PDF: Final.appdf
+USERNAME: arnavh23
+XMOD: C:\Program Files\AspenTech\Aspen Plus V14.0\Engine\xeq\apmain
+SPONLY:
+DBCONN: _1226wmi.ads
